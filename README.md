@@ -96,13 +96,3 @@ This README includes:
 5. Installation/usage instructions
 6. Professional contact information
 7. License and acknowledgments
-
-Customize with:
-- Your actual certificate image
-- Specific project highlights
-- Personal contact information
-- Additional technical details for specific projects
-- Any specialized installation requirements
-- Links to deployed projects/dashboards if available
-
-Remember to replace placeholder text (in square brackets) with your actual information before publishing.
